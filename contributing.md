@@ -153,4 +153,4 @@ noticed — both by other players and by the anti-cheat.
 
 ---
 
-*civilization-6-utility-pack · Updated 2026-10-26 · Shared under the MIT License*
+*civilization-6-utility-pack · Updated 2026-10-27 · Shared under the MIT License*

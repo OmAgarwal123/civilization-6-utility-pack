@@ -153,6 +153,6 @@ noticed — both by other players and by the anti-cheat.
 
 ---
 
-*civilization-6-utility-pack · Updated 2026-11-05 · Shared under the MIT License*
+*civilization-6-utility-pack · Updated 2026-11-06 · Shared under the MIT License*
 
-<!-- rev 2026-11-05 -->
+<!-- rev 2026-11-06 -->
